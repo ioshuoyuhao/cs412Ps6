@@ -1,5 +1,14 @@
 # Ps6
 
+This assignment is mainly about getting your dev environment set up for Angular
+and building a very simple app. 
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
 ## Development server
